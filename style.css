@@ -1,0 +1,219 @@
+body {
+height: 100%;
+width: 100%;
+margin: 0;
+padding: 0;
+overflow: scroll;
+
+}
+
+#menu {
+  width: 250px;
+  height: 900px;
+  background-color: #6e4f3d;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  font-family: "Lucida", cursive;
+
+}
+
+#links {
+  margin: 50px;
+  font-size: 30px;
+  font-family: "Didot", serif;
+}
+
+
+
+a {
+  color: grey;
+}
+#album_cover {
+  width: 50px;
+  height: 50px;
+  top: 80px;
+  left: 680px;
+  background-color: #ccc;
+  position: fixed;
+  z-index: 1;
+
+}
+
+#tracklist {
+  width: 200%;
+  height: 200%;
+  top: 460px;
+  left: 250px;
+  background-color: #a18162;
+  position: fixed;
+  z-index: 3;
+  font-family: "Lucida", cursive;
+}
+
+#background {
+  width: 200%;
+  height: 100%;
+  position: fixed;
+  background-color: #352f26;
+  top: 0px;
+  left: 250px;
+}
+
+#so_high {
+  width: 220px;
+  height: 50px;
+  position: fixed;
+  background-color: #a18162;
+  top: 460px;
+  left: 250px;
+  z-index: 2;
+  font-size: 25px;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+#nuketown {
+  width: 220px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 550px;
+  left: 250px;
+  z-index: 2;
+  font-size: 25px;
+  padding-left: 30px;
+}
+#foot_fungus {
+  width: 220px;
+  height: 60px;
+  position: fixed;
+  background-color: #a18162;
+  top: 630px;
+  left: 250px;
+  z-index: 2;
+  font-size: 25px;
+  padding-left: 30px;
+}
+#la_la {
+  width: 220px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 680px;
+  left: 250px;
+  z-index: 2;
+  font-size: 25px;
+  padding-left: 30px;
+}
+#unbothered {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 460px;
+  left: 530px;
+  z-index: 2;
+  font-size: 25px;
+  padding-top: 30px;
+}
+#save_me {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 550px;
+  left: 530px;
+  z-index: 2;
+  font-size: 25px;
+}
+#adults_swim {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 630px;
+  left: 530px;
+  z-index: 2;
+  font-size: 25px;
+}
+#far_gone {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 680px;
+  left: 530px;
+  z-index: 2;
+  font-size: 25px;
+}
+#get_geeked {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 460px;
+  left: 790px;
+  z-index: 2;
+  font-size: 25px;
+  padding-top: 30px;
+}
+#reborn_to_rebel {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 550px;
+  left: 790px;
+  z-index: 2;
+  font-size: 25px;
+}
+#faucet_failure {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 610px;
+  left: 790px;
+  z-index: 2;
+  font-size: 25px;
+}
+#u_and_i {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 670px;
+  left: 790px;
+  z-index: 2;
+  font-size: 25px;
+}
+#cat_piss {
+  width: 240px;
+  height: 80px;
+  position: fixed;
+  background-color: #a18162;
+  top: 580px;
+  left: 1060px;
+  z-index: 2;
+  font-size: 25px;
+}
+#content {
+  width: 100%;
+  position: absolute;
+  z-index: 3;
+  top: 600px;
+  left: 800px;
+}
+
+h1 {
+  margin: 45px;
+
+}
+h3 {
+  margin: 55px;
+
+}
+
+p {
+  font-size: 30px;
+}
